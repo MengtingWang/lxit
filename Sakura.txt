@@ -14,4 +14,3 @@ http://www.tiany1.com/doc/index.html //达内开发文档
   显示器: Topview(冠捷) TOP1927 1927 ( 19.1 英寸  )
     声卡: 英特尔 Display Audio @ 英特尔 6 Series Chipset  高保真音频
     网卡: 瑞昱 RTL810x/8139 Family Fast Ethernet NIC
-=======

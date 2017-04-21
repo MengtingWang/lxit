@@ -1,60 +1,27 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 蒋国伟：男
 爱好：女
 特点:帅 帅 帅
 =======
 辉哥66666
+=======
+>>>>>>> 2255f635d34d8f1f78b33ba9917ce178ede03123
 
+你猜猜，我会说什么，来过来，我告诉你
 
-辉哥low low low 
+辉哥！six six six
+
+看什么，看你妹，再看打死你
+
 
 Are you think?
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+asdfasdfasdfasdf
 
-浼︽锛?
-
-浠婂ぉ鎴戣缁欏ぇ瀹惰涓�涓偛浼ょ殑鏁呬簨
-
-鐩镐俊澶у鍚畬涔嬪悗閮戒細鏈夋墍棰嗘偀
-
- 
-
-涓轰粈涔堜細琚嫯瀛愬コ鎷掔粷鍛?
-
-杩樹笉鏄洜涓轰綘闀垮緱涓嶅ソ鐪?
-
-涓轰粈涔堜細琚ぉ铦庡コ鎷掔粷鍛?
-
-杩樹笉鏄洜涓轰綘闀垮緱涓嶅ソ鐪?
-=======
-http://www.tiany1.com/doc/index.html //达内开发文档
-
-------鲁大师 Build V5.15.16.1205------
-
-电脑型号: X64 兼容 台式电脑
-操作系统: Windows 7 旗舰版 64位 SP1
-
-  处理器: 英特尔 Pentium(奔腾) G620 @ 2.60GHz 双核
-    主板: 昂达 H61C
-    内存: 4 GB ( 金士顿 DDR3 1600MHz )
-594
-  主硬盘: 希捷 ST3160215SCE ( 160 GB / 7200 转/分 )
-    显卡: 英特尔 HD Graphics ( 64 MB / 英特尔 )
-  显示器: Topview(冠捷) TOP1927 1927 ( 19.1 英寸  )
-    声卡: 英特尔 Display Audio @ 英特尔 6 Series Chipset  高保真音频
-    网卡: 瑞昱 RTL810x/8139 Family Fast Ethernet NIC
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-到此一游
-=======
-=======
+http://www.tiany1.com/doc/index.html 
 zhoushuncheng
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 7f1b4396e0693286f2bd3d477ce94271ed792b00
@@ -80,3 +47,7 @@ zhoushuncheng
 辉哥,low ,low,low
 >>>>>>> 4a651d071776e7f158106a28e298f55992ca60be
 >>>>>>> 33e73e8f68e0a8ed4b7c4a6480144fd6ddc78b07
+=======
+
+wangshuai
+>>>>>>> 2255f635d34d8f1f78b33ba9917ce178ede03123

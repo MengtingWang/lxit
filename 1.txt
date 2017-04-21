@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 zhouge   
 
 		test
@@ -11,6 +12,12 @@ zhouge
 <<<<<<< HEAD
 =======
 >>>>>>> 5e20740b05bf55bc30fbc1c2808f5925be6c1cec
+=======
+You know?
+are you ok?
+æˆ‘çš„ä¹±ç ï¼Œå‘¨é¡ºæˆå°±Come overï¼
+=======
+>>>>>>> fdb1c5cf76426360881f36e5365657e6507bb650
 
 Äã²Â²Â£¬ÎÒ»áËµÊ²Ã´£¬À´¹ýÀ´£¬ÎÒ¸æËßÄã
 

@@ -15,3 +15,5 @@ http://www.tiany1.com/doc/index.html //达内开发文档
     声卡: 英特尔 Display Audio @ 英特尔 6 Series Chipset  高保真音频
     网卡: 瑞昱 RTL810x/8139 Family Fast Ethernet NIC
 =======
+
+为了转换子元素的变形深度 perspective-origin必须定义在父元素上 需要与perspective属性结合起来使用

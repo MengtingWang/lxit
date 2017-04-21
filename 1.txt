@@ -12,24 +12,17 @@ zhouge
 =======
 >>>>>>> 5e20740b05bf55bc30fbc1c2808f5925be6c1cec
 
+��²£��һ�˵ʲô�����������Ҹ�����
+
+�Ը磡six six six
+
+��ʲô�������ã��ٿ�������
+
 
 Are you think?
 asdfasdfasdfasdf
 
-伦桑
-
-今天我要给大家讲一个悲伤的故事
-
-相信大家听完之后都会有所领悟
-
- 
-
-为什么会被狮子女拒绝
-
-还不是因为你长得不好
-
-为什么会被天蝎女拒绝
-
+<<<<<<< HEAD
 还不是因为你长得不好看
 <<<<<<< HEAD
 =======
@@ -84,3 +77,9 @@ zhoushuncheng
 http://www.tiany1.com/doc/index.html 
 zhoushuncheng
 >>>>>>> 5e20740b05bf55bc30fbc1c2808f5925be6c1cec
+=======
+http://www.tiany1.com/doc/index.html 
+zhoushuncheng
+
+wangshuai
+>>>>>>> 2255f635d34d8f1f78b33ba9917ce178ede03123

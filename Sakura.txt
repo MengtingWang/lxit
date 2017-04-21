@@ -1,0 +1,23 @@
+http://www.tiany1.com/doc/index.html //达内开发文档
+
+------鲁大师 Build V5.15.16.1205------
+
+电脑型号: X64 兼容 台式电脑
+操作系统: Windows 7 旗舰版 64位 SP1
+
+  处理器: 英特尔 Pentium(奔腾) G620 @ 2.60GHz 双核
+    主板: 昂达 H61C
+    内存: 4 GB ( 金士顿 DDR3 1600MHz )
+594
+  主硬盘: 希捷 ST3160215SCE ( 160 GB / 7200 转/分 )
+    显卡: 英特尔 HD Graphics ( 64 MB / 英特尔 )
+  显示器: Topview(冠捷) TOP1927 1927 ( 19.1 英寸  )
+    声卡: 英特尔 Display Audio @ 英特尔 6 Series Chipset  高保真音频
+<<<<<<< HEAD
+    网卡: 瑞昱 RTL810x/8139 Family Fast Ethernet NIC
+=======
+    网卡: 瑞昱 RTL810x/8139 Family Fast Ethernet NIC
+=======
+
+为了转换子元素的变形深度 perspective-origin必须定义在父元素上 需要与perspective属性结合起来使用
+>>>>>>> cdc2fca8a3708743ef2f28843e1de0bca0b7bd5b

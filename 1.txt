@@ -1,15 +1,15 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Äã²Â²Â£¬ÎÒ»áËµÊ²Ã´£¬À´¹ýÀ´£¬ÎÒ¸æËßÄã
-=======
-»Ô¸ç£¡six six six
->>>>>>> 0dab2959da05e89cb26535f43205bc60fca88b76
-¿´Ê²Ã´£¬¿´ÄãÃÃ£¬ÔÙ¿´´òËÀÄã
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-ä¼¦æ¡‘ï¼š
+Äã²Â²Â£¬ÎÒ»áËµÊ²Ã´£¬À´¹ýÀ´£¬ÎÒ¸æËßÄã
+
+»Ô¸ç£¡six six six
+
+¿´Ê²Ã´£¬¿´ÄãÃÃ£¬ÔÙ¿´´òËÀÄã
+
+
+Are you think?
+asdfasdfasdfasdf
+
+ä¼¦æ¡‘
 
 ä»Šå¤©æˆ‘è¦ç»™å¤§å®¶è®²ä¸€ä¸ªæ‚²ä¼¤çš„æ•…äº‹
 
@@ -17,38 +17,16 @@
 
  
 
-ä¸ºä»€ä¹ˆä¼šè¢«ç‹®å­å¥³æ‹’ç»å‘¢
+ä¸ºä»€ä¹ˆä¼šè¢«ç‹®å­å¥³æ‹’ç»
 
-è¿˜ä¸æ˜¯å› ä¸ºä½ é•¿å¾—ä¸å¥½çœ‹
+è¿˜ä¸æ˜¯å› ä¸ºä½ é•¿å¾—ä¸å¥½
 
-ä¸ºä»€ä¹ˆä¼šè¢«å¤©èŽå¥³æ‹’ç»å‘¢
+ä¸ºä»€ä¹ˆä¼šè¢«å¤©èŽå¥³æ‹’ç»
 
-è¿˜ä¸æ˜¯å› ä¸ºä½ é•¿å¾—ä¸å¥½çœ‹
-=======
-http://www.tiany1.com/doc/index.html //´ïÄÚ¿ª·¢ÎÄµµ
-
-------Â³´óÊ¦ Build V5.15.16.1205------
-
-µçÄÔÐÍºÅ: X64 ¼æÈÝ Ì¨Ê½µçÄÔ
-²Ù×÷ÏµÍ³: Windows 7 Æì½¢°æ 64Î» SP1
-
-  ´¦ÀíÆ÷: Ó¢ÌØ¶û Pentium(±¼ÌÚ) G620 @ 2.60GHz Ë«ºË
-    Ö÷°å: °º´ï H61C
-    ÄÚ´æ: 4 GB ( ½ðÊ¿¶Ù DDR3 1600MHz )
-594
-  Ö÷Ó²ÅÌ: Ï£½Ý ST3160215SCE ( 160 GB / 7200 ×ª/·Ö )
-    ÏÔ¿¨: Ó¢ÌØ¶û HD Graphics ( 64 MB / Ó¢ÌØ¶û )
-  ÏÔÊ¾Æ÷: Topview(¹Ú½Ý) TOP1927 1927 ( 19.1 Ó¢´ç  )
-    Éù¿¨: Ó¢ÌØ¶û Display Audio @ Ó¢ÌØ¶û 6 Series Chipset  ¸ß±£ÕæÒôÆµ
-    Íø¿¨: ÈðêÅ RTL810x/8139 Family Fast Ethernet NIC
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-µ½´ËÒ»ÓÎ
-=======
-=======
+è¿˜ä¸æ˜¯å› ä¸ºä½ é•¿å¾—ä¸å¥½çœ?
+http://www.tiany1.com/doc/index.html 
 zhoushuncheng
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> 7f1b4396e0693286f2bd3d477ce94271ed792b00
@@ -68,3 +46,5 @@ zhoushuncheng
 >>>>>>> b1249069c166d580b4907a0786d5ea716a53bc33
 >>>>>>> e7008842017136f359ac17d0f8c63976f501e78f
 >>>>>>> 504e8ddc988b7677e170cf81258136990c186323
+=======
+>>>>>>> 5e20740b05bf55bc30fbc1c2808f5925be6c1cec

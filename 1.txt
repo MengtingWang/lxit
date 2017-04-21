@@ -1,5 +1,23 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+http://www.tiany1.com/doc/index.html //达内开发文档
+
+------鲁大师 Build V5.15.16.1205------
+
+电脑型号: X64 兼容 台式电脑
+操作系统: Windows 7 旗舰版 64位 SP1
+
+  处理器: 英特尔 Pentium(奔腾) G620 @ 2.60GHz 双核
+    主板: 昂达 H61C
+    内存: 4 GB ( 金士顿 DDR3 1600MHz )
+594
+  主硬盘: 希捷 ST3160215SCE ( 160 GB / 7200 转/分 )
+    显卡: 英特尔 HD Graphics ( 64 MB / 英特尔 )
+  显示器: Topview(冠捷) TOP1927 1927 ( 19.1 英寸  )
+    声卡: 英特尔 Display Audio @ 英特尔 6 Series Chipset  高保真音频
+    网卡: 瑞昱 RTL810x/8139 Family Fast Ethernet NIC
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 呵呵 我是海龟不是乌龟更加不是王八
@@ -26,15 +44,19 @@ zhoushuncheng
 >>>>>>> 86becbed8fb7b10b4b1cf5ac4935781238f0556e
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ba9179b15423db7d347ab3ffa9fb787c32ba486c
 >>>>>>> 7f1b4396e0693286f2bd3d477ce94271ed792b00
+=======
+>>>>>>> e7008842017136f359ac17d0f8c63976f501e78f
 =======
 >>>>>>> ba9179b15423db7d347ab3ffa9fb787c32ba486c
 >>>>>>> b1249069c166d580b4907a0786d5ea716a53bc33
 =======
 辉哥！six six six
 >>>>>>> 0dab2959da05e89cb26535f43205bc60fca88b76
+<<<<<<< HEAD
  Authentication failed for 'https://github.com/lxit1606/lxit.git/
  Authentication failed for 'https://github.com/lxit1606/lxit.git/
  Authentication failed for 'https://github.com/lxit1606/lxit.git/
@@ -43,3 +65,6 @@ zhoushuncheng
  Authentication failed for 'https://github.com/lxit1606/lxit.git/
  Authentication failed for 'https://github.com/lxit1606/lxit.git/
  Authentication failed for 'https://github.com/lxit1606/lxit.git/
+=======
+>>>>>>> b1249069c166d580b4907a0786d5ea716a53bc33
+>>>>>>> e7008842017136f359ac17d0f8c63976f501e78f
